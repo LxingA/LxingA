@@ -1,4 +1,6 @@
-<img src="https://github.lxinga.dev/ee7b14da-39a4-4450-8f1a-9fd6874bf18e.webp?v=baa085237235" width=800/>
+<a href="#">
+  <img src="https://github.lxinga.dev/ee7b14da-39a4-4450-8f1a-9fd6874bf18e.webp?v=baa085237235" width=1024/>
+</a>
 
 ###  :man_technologist:  [Marloy Therdson](https://link.socasf.net/portal)
 
