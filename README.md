@@ -69,6 +69,16 @@
   </a>
 </div>
 
+### Gestor DNS y Despegadores
+<div>
+  <a href="#">
+    <img title="CloudFlare" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg"/>
+  </a>
+  <a href="#">
+    <img title="Vercel" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg"/>
+  </a>
+</div>
+
 ### Motores Gráficos
 <div>
   <a href="#">
@@ -89,6 +99,9 @@
   </a>
   <a href="#">
     <img title="TypeScript" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
+  </a>
+  <a href="#">
+    <img title="JSON" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"/>
   </a>
 </div>
 
