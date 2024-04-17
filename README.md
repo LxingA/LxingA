@@ -9,7 +9,7 @@
 [![Estado Actual en GitHub](https://github-readme-stats.vercel.app/api?username=lxinga&count_private=true&show_icons=true&theme=radical)](https://github.com/LxingA)
 
 ### Acerca de Mí
--  **Aprendiendo:** Implementación de MicroServicios (API) con Express (NodeJS), Desarrollo de Sitios Web SPA con ReactJS y Vite (Webpack), Creación de VideoJuegos en Unreal Engine (C++ con BluePrint) y Unity (C#), Gestor de Servicios en Linux Ubuntu con Python, Modelaje 3D en Blender
+-  **Aprendiendo:** Implementación de MicroServicios (API) con Express (NodeJS), Desarrollo de Sitios Web SPA con ReactJS y Vite (Webpack), Creación de VideoJuegos en Unreal Engine (BluePrint y por aprender C++), Gestor de Servicios en Linux Ubuntu con Python, Modelaje 3D en Blender
 -  **Lenguajes Principales:** Javascript, PHP y Python
 -  **Hobbies:** 🎧 Música, 🥁 Instrumentos, 📺 Anime, 🎮 MOBAS y MMORPG, 💻 Hardware y Software, 📹 Youtube
 -  **Factor:** 🤔 Ingeniate la Solución y Posteriormente Ejecútalo con Código :heart:
@@ -18,12 +18,6 @@
 
 ### Lenguajes de Programación
 <div>
-  <a href="#">
-    <img title="C++" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  </a>
-  <a href="#">
-    <img title="C#" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  </a>
   <a href="#">
     <img title="JavaScript" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
   </a>
@@ -87,9 +81,6 @@
 <div>
   <a href="#">
     <img title="Unreal Engine" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg"/>
-  </a>
-  <a href="#">
-    <img title="Unity" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
   </a>
 </div>
 
@@ -199,9 +190,6 @@
 <div>
   <a href="#">
     <img title="Visual Studio Code" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="#">
-    <img title="Visual Studio 2022" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/>
   </a>
 </div>
 
