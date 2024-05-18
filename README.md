@@ -9,20 +9,17 @@
 [![Estado Actual en GitHub](https://github-readme-stats.vercel.app/api?username=lxinga&count_private=true&show_icons=true&theme=radical)](https://github.com/LxingA)
 
 ### Acerca de Mí
--  **Aprendiendo:** Implementación de MicroServicios (API) con Express (NodeJS), Desarrollo de Sitios Web SPA con ReactJS y Vite (Webpack), Creación de VideoJuegos en Unreal Engine (BluePrint y por aprender C++), Gestor de Servicios en Linux Ubuntu con Python, Modelaje 3D en Blender
--  **Lenguajes Principales:** Javascript, PHP y Python
+-  **Aprendiendo:** Implementación de MicroServicios (API) con ElysiaJS (Bun), Desarrollo de Sitios Web SPA con ReactJS (Vite), Creación de VideoJuegos en Unreal Engine, Gestor de Servicios en Linux Ubuntu con Python, Modelaje 3D en Blender
+-  **Lenguajes Principales:** Javascript y PHP
 -  **Hobbies:** 🎧 Música, 🥁 Instrumentos, 📺 Anime, 🎮 MOBAS y MMORPG, 💻 Hardware y Software, 📹 Youtube
--  **Factor:** 🤔 Ingeniate la Solución y Posteriormente Ejecútalo con Código :heart:
+-  **Factor:** 🤔 Ingeniate la Solución y Posteriormente Ejecútalo en Código :heart:
 -  **Contacto:** 📫 [Correo Electrónico](mailto:kmunizh@lxinga.dev) 📫
--  **Sitio Web:** 📄 [Sitio Web](https://link.socasf.net/portal) 📄
+-  **Sitio Web:** 📄 [Sitio Web](https://docs.lxinga.dev) 📄
 
 ### Lenguajes de Programación
 <div>
   <a href="#">
     <img title="JavaScript" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="#">
-    <img title="Python" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   </a>
   <a href="#">
     <img title="PHP" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
@@ -61,6 +58,9 @@
   </a>
   <a href="#">
     <img title="NodeJS" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  </a>
+  <a href="#">
+    <img title="BunJS" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg"/>
   </a>
   <a href="#">
     <img title="ViteJS" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"/>
@@ -156,9 +156,6 @@
   </a>
   <a href="#">
     <img title="NPM" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-  <a href="#">
-    <img title="Python PI" height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg"/>
   </a>
 </div>
 
