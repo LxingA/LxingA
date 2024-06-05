@@ -14,7 +14,7 @@
 -  **Hobbies:** 🎧 Música, 🥁 Instrumentos, 📺 Anime, 🎮 MOBAS y MMORPG, 💻 Hardware y Software, 📹 Youtube
 -  **Factor:** 🤔 Ingeniate la Solución y Posteriormente Ejecútalo en Código :heart:
 -  **Contacto:** 📫 [Correo Electrónico](mailto:kmunizh@lxinga.dev) 📫
--  **Sitio Web:** 📄 [Sitio Web](https://docs.lxinga.dev) 📄
+-  **Sitio Web:** 📄 [Sitio Web](https://lxinga.com.mx/) 📄
 
 ### Lenguajes de Programación
 <div>
